@@ -21,7 +21,7 @@ const state = {
 
 
 function playSound(){
-    const audio = new Audio('src/audios/src_audios_hit.m4a');
+    const audio = new Audio('src/audios/src_audios_hit.m4a');cl
 
 audio.volume = 0.2;
 audio.play();}
